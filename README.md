@@ -23,4 +23,4 @@ Pour générer la version de production :
 npm run build
 ```
 
-Version en ligne : https://ivoire-pool.chr1sk3ly-123.chatgpt.site
+Version en ligne : https://ivoire-pool.chriskely.me
